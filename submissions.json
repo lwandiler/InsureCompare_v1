@@ -1,0 +1,49 @@
+{
+    "submissions": [
+        {
+            "id": "6875612dd1f57",
+            "timestamp": "2025-07-14 21:57:34",
+            "user": "guest",
+            "name": "Lwandile Rozani",
+            "email": "vsemoth@gmail.com",
+            "zip_code": "9786",
+            "current_insurer": "American National",
+            "current_premium": 1200,
+            "coverage_type": "auto",
+            "vehicle_year": 2020,
+            "vehicle_make": "Toyota",
+            "vehicle_model": "Camry",
+            "coverage_level": "standard"
+        },
+        {
+            "id": "6875615244ef7",
+            "timestamp": "2025-07-14 21:58:10",
+            "user": "guest",
+            "name": "Lwandile Rozani",
+            "email": "vsemoth@gmail.com",
+            "zip_code": "9786",
+            "current_insurer": "American National",
+            "current_premium": 400,
+            "coverage_type": "auto",
+            "vehicle_year": 2020,
+            "vehicle_make": "Toyota",
+            "vehicle_model": "Camry",
+            "coverage_level": "standard"
+        },
+        {
+            "id": "6875615b13515",
+            "timestamp": "2025-07-14 21:58:19",
+            "user": "guest",
+            "name": "Lwandile Rozani",
+            "email": "vsemoth@gmail.com",
+            "zip_code": "9786",
+            "current_insurer": "American National",
+            "current_premium": 400,
+            "coverage_type": "auto",
+            "vehicle_year": 2020,
+            "vehicle_make": "Toyota",
+            "vehicle_model": "Camry",
+            "coverage_level": "standard"
+        }
+    ]
+}

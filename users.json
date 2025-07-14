@@ -1,0 +1,8 @@
+{
+    "admin": {
+        "username": "admin",
+        "password": "$2y$10$TODFBkWF\/EQ.y51n6RXnPewRzQ4ydLPk14mdNHgMBGG\/BINggCjpy",
+        "role": "admin",
+        "email": "admin@insurecompare.com"
+    }
+}
